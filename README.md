@@ -10,7 +10,7 @@ developed by ayatec europe and intended for use in bespoke embedded systems.
 ## Requirements
 - Arduino IDE
 - ESP32 core by Espressif
-- relevant basic libraries where applicable:
+- relevant basic 3rd party libraries where applicable:
   - EthernetWebServer by Khoi Hoang
   - PubSubClient by Nick O'Leary
 
