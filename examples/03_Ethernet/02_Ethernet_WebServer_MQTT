@@ -1,5 +1,5 @@
 /*
-  Name: Ethernet HTTP + MQTT
+  Name: Ethernet WebServer MQTT
   Board: esp32 -> ESP32S3 Dev Module / DevKit
   Hardware: ayatec sensoraya v2.1
 
