@@ -97,5 +97,5 @@ if (millis() - Ref10s > 10000){  // publish message every 10 seconds
 
 wifiServer.handleClient();
 mqttClient.loop();
-delay(0);          // required in minimal example to avoid wdt reboot
+delay(1);          // required in minimal example to avoid wdt reboot
 }
