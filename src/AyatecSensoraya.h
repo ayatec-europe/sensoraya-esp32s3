@@ -51,8 +51,8 @@
 #define PIN_SDA        40
 
 // DFPlayer
-#define PIN_MP3_TX     41
-#define PIN_MP3_RX     42
+#define PIN_DFPlayer_RX   41
+#define PIN_DFPlayer_TX   42
 
 // 595 Shift register
 #define PIN_SR_SRCLK   21
